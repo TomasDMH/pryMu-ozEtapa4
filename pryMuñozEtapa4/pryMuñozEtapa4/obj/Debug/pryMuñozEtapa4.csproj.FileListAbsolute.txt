@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\pryMuñozEtapa4\pryMuñozEtapa4\bin\Debug\pryMuñozEtapa4.exe.config
+C:\Users\Usuario\source\repos\pryMuñozEtapa4\pryMuñozEtapa4\bin\Debug\pryMuñozEtapa4.exe
+C:\Users\Usuario\source\repos\pryMuñozEtapa4\pryMuñozEtapa4\bin\Debug\pryMuñozEtapa4.pdb
+C:\Users\Usuario\source\repos\pryMuñozEtapa4\pryMuñozEtapa4\obj\Debug\pryMuñozEtapa4.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\pryMuñozEtapa4\pryMuñozEtapa4\obj\Debug\pryMuñozEtapa4.Form1.resources
+C:\Users\Usuario\source\repos\pryMuñozEtapa4\pryMuñozEtapa4\obj\Debug\pryMuñozEtapa4.Properties.Resources.resources
+C:\Users\Usuario\source\repos\pryMuñozEtapa4\pryMuñozEtapa4\obj\Debug\pryMuñozEtapa4.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\pryMuñozEtapa4\pryMuñozEtapa4\obj\Debug\pryMuñozEtapa4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pryMuñozEtapa4\pryMuñozEtapa4\obj\Debug\pryMuñozEtapa4.exe
+C:\Users\Usuario\source\repos\pryMuñozEtapa4\pryMuñozEtapa4\obj\Debug\pryMuñozEtapa4.pdb
